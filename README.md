@@ -11,7 +11,7 @@ Sounds file optimizations - maybe need include with link for next version
 <b>2.</b> Android Fragments<br>
 <b>3.</b> Google Ads<br><br>
 
-<b>Coding time and designing time= 1-2 Days</b><br>
+<b>Coding time and designing time= Totally 8 Hours</b><br>
 <b>Google Play Link = <a href="https://play.google.com/store/apps/details?id=com.prod.musicapp">Click</a></b>
 <b>Dribbble Link = <a href="https://dribbble.com/shots/9161314-Relaxytime-UI-Screen-Relaxing-Sounds">Click</a></b>
 
