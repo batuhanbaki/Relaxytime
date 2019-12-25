@@ -3,7 +3,7 @@ Android java relaxing sounds app
 
 <h3>2 page fragment, 18 sounds</h3><br>
 <b>Problems</b><br>
-Sounds file optimizations - maybe need include with link for next version
+Sounds file optimizations - maybe needed include with link for next version
 <br><br>
 
 <h4> Using Tech </h4><br>
