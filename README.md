@@ -13,7 +13,7 @@ Sounds file optimizations - maybe needed include with link for next version
 
 <b>Coding time and designing time= Totally 8 Hours</b><br>
 <b>Google Play Link = <a href="https://play.google.com/store/apps/details?id=com.prod.musicapp">Click</a></b>
-<b>Dribbble Link = <a href="https://dribbble.com/shots/9161314-Relaxytime-UI-Screen-Relaxing-Sounds">Click</a></b>
+<b>Dribbble Link = <a href="https://dribbble.com/shots/9161337-Relaxytime-App-UI-Relaxing-Sounds">Click</a></b>
 
 
 <center><img src="http://ccsguvenlik.com/indir/1024500.png"/></center><br>
