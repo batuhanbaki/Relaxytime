@@ -9,7 +9,7 @@ Sounds file optimizations - maybe need include with link for next version
 <h4> Using Tech </h4><br>
 <b>1.</b> Android Media Player<br>
 <b>2.</b> Android Fragments<br>
-<b>3.</b> Google Ads<br>
+<b>3.</b> Google Ads<br><br>
 
 <b>Coding time and designing time= 1-2 Days</b><br>
 <b>Google Play Link = <a href="https://play.google.com/store/apps/details?id=com.prod.musicapp">Click</a></b>
